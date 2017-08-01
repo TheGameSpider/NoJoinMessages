@@ -1,4 +1,4 @@
 name: NoJoinMessages
 main: TheGameSpider.plugins.NoJoinMessages.main
-version: 1.0
-commands: 
+version: 1.1
+author: TheGameSpider
