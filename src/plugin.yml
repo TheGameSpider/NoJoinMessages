@@ -1,0 +1,4 @@
+name: NoJoinMessages
+main: TheGameSpider.main
+version: 1.0
+commands: 
